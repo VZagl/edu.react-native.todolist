@@ -2,6 +2,7 @@
   "name": "rn1",
   "version": "0.0.1",
   "private": true,
+	"license": "Unlicense",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
